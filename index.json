@@ -3,6 +3,11 @@
   "repo": "defusedxml",
   "versions": [
     {
+      "commit": "55dbde29c06834bf2015db88310aaa05f3b7c8c7",
+      "tag": "v0.8.0rc2",
+      "parsed_at": "2026-11-22T06:04:43.270174+00:00"
+    },
+    {
       "commit": "c7445887f5e1bcea470a16f61369d29870cfcfe1",
       "tag": "",
       "parsed_at": "2026-10-18T05:01:46.932032+00:00"
